@@ -1,0 +1,7 @@
+{
+  "name": "CulinAI",
+  "description": "AI-powered kitchen assistant for personalized, safe cooking with allergy alerts, pantry management, and smart recipe generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
